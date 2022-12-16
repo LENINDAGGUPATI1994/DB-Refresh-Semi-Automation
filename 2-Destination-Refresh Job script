@@ -1,4 +1,5 @@
-
+--CHange the required parameters, server names as per your requirement.
+==========================================================================
 
 USE [msdb]
 GO
